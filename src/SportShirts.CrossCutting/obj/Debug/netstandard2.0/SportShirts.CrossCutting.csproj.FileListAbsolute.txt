@@ -1,0 +1,8 @@
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\bin\Debug\netstandard2.0\SportShirts.CrossCutting.deps.json
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\bin\Debug\netstandard2.0\SportShirts.CrossCutting.dll
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\bin\Debug\netstandard2.0\SportShirts.CrossCutting.pdb
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\obj\Debug\netstandard2.0\SportShirts.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\obj\Debug\netstandard2.0\SportShirts.CrossCutting.AssemblyInfoInputs.cache
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\obj\Debug\netstandard2.0\SportShirts.CrossCutting.AssemblyInfo.cs
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\obj\Debug\netstandard2.0\SportShirts.CrossCutting.dll
+C:\Repos\SportShirts\src\SportShirts.CrossCutting\obj\Debug\netstandard2.0\SportShirts.CrossCutting.pdb

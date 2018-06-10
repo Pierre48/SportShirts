@@ -1,0 +1,14 @@
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Backend.deps.json
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Backend.runtimeconfig.json
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Backend.runtimeconfig.dev.json
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Backend.dll
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Backend.pdb
+C:\Repos\SportShirts\src\SportShirts.Backend\obj\Debug\netcoreapp2.0\SportShirts.Backend.csproj.CoreCompileInputs.cache
+C:\Repos\SportShirts\src\SportShirts.Backend\obj\Debug\netcoreapp2.0\SportShirts.Backend.AssemblyInfoInputs.cache
+C:\Repos\SportShirts\src\SportShirts.Backend\obj\Debug\netcoreapp2.0\SportShirts.Backend.AssemblyInfo.cs
+C:\Repos\SportShirts\src\SportShirts.Backend\obj\Debug\netcoreapp2.0\SportShirts.Backend.dll
+C:\Repos\SportShirts\src\SportShirts.Backend\obj\Debug\netcoreapp2.0\SportShirts.Backend.pdb
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.CrossCutting.dll
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Models.dll
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.CrossCutting.pdb
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Models.pdb

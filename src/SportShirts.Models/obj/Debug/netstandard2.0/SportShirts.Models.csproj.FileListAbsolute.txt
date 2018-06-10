@@ -1,0 +1,10 @@
+C:\Repos\SportShirts\src\SportShirts.Models\bin\Debug\netstandard2.0\SportShirts.Models.deps.json
+C:\Repos\SportShirts\src\SportShirts.Models\bin\Debug\netstandard2.0\SportShirts.Models.dll
+C:\Repos\SportShirts\src\SportShirts.Models\bin\Debug\netstandard2.0\SportShirts.Models.pdb
+C:\Repos\SportShirts\src\SportShirts.Models\bin\Debug\netstandard2.0\SportShirts.CrossCutting.dll
+C:\Repos\SportShirts\src\SportShirts.Models\bin\Debug\netstandard2.0\SportShirts.CrossCutting.pdb
+C:\Repos\SportShirts\src\SportShirts.Models\obj\Debug\netstandard2.0\SportShirts.Models.csproj.CoreCompileInputs.cache
+C:\Repos\SportShirts\src\SportShirts.Models\obj\Debug\netstandard2.0\SportShirts.Models.AssemblyInfoInputs.cache
+C:\Repos\SportShirts\src\SportShirts.Models\obj\Debug\netstandard2.0\SportShirts.Models.AssemblyInfo.cs
+C:\Repos\SportShirts\src\SportShirts.Models\obj\Debug\netstandard2.0\SportShirts.Models.dll
+C:\Repos\SportShirts\src\SportShirts.Models\obj\Debug\netstandard2.0\SportShirts.Models.pdb
