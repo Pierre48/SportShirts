@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SportShirts.Backend</name>
+    </assembly>
+    <members>
+        <member name="M:SportShirts.Backend.Controllers.ShirtsController.Get">
+            <summary>
+            Deletes a specific TodoItem.
+            </summary>
+        </member>
+    </members>
+</doc>

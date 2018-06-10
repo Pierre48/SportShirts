@@ -12,3 +12,4 @@ C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts
 C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Models.dll
 C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.CrossCutting.pdb
 C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Models.pdb
+C:\Repos\SportShirts\src\SportShirts.Backend\bin\Debug\netcoreapp2.0\SportShirts.Backend.xml

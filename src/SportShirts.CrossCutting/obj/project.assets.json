@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\SportShirts\\src\\SportShirts.CrossCutting\\SportShirts.CrossCutting.csproj",
+      "projectUniqueName": "c:\\Repos\\SportShirts\\src\\SportShirts.CrossCutting\\SportShirts.CrossCutting.csproj",
       "projectName": "SportShirts.CrossCutting",
-      "projectPath": "C:\\Repos\\SportShirts\\src\\SportShirts.CrossCutting\\SportShirts.CrossCutting.csproj",
+      "projectPath": "c:\\Repos\\SportShirts\\src\\SportShirts.CrossCutting\\SportShirts.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\SportShirts\\src\\SportShirts.CrossCutting\\obj\\",
+      "outputPath": "c:\\Repos\\SportShirts\\src\\SportShirts.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

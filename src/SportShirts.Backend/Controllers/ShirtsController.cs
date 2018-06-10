@@ -10,7 +10,9 @@ namespace SportShirts.Backend.Controllers
     [Route("api/[controller]")]
     public class ShirtsController : Controller
     {
-        // GET api/values
+        /// <summary>
+        /// Return the list of shirts   
+        /// </summary>
         [HttpGet]
         public IEnumerable<Shirt> Get()
         {
